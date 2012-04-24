@@ -70,10 +70,6 @@ nav{
 	margin: 0px;
 }
 
-#nav a:visited{
-	color: blue;
-}
-
 #nav a:hover{
 	background-color: #f75e56;
 }
@@ -82,9 +78,11 @@ nav{
 	background-color: #fbcf70;
 }
 
-#nav a:focus{
-	background-color: #fbcf70;
+#nav .currentpage a{
+	background-color: #bcd0e5;
 }
+
+
 /*======================================= Begin Services==========================*/
 .services{/*=========h2========*/
 	width: 150px;
