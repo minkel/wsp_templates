@@ -112,7 +112,9 @@ nav{
 
 .weprovide{
 	width: 293px;
-	color:rgba(254, 254, 253, .9);
+	background-color: rgba(0, 0, 0, .2);
+	padding: 5px;
+	color:rgba(254, 254, 253, 2.0);
 	position: absolute;
 	top: 175px;
 	left:292px;
