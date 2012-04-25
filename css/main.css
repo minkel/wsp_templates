@@ -61,15 +61,6 @@ nav{
 
 }
 
-#nav a{
-	width: 85px;
-	color: #050505;
-	display: block;
-	text-decoration: none;
-	padding: 8px 0px 8px 0px;
-	margin: 0px;
-}
-
 #nav a:hover{
 	background-color: #f75e56;
 }
@@ -79,8 +70,13 @@ nav{
 }
 
 #nav .currentpage a{
-	background-color: #bcd0e5;
+	background-color: #f75e56;
 }
+
+#nav .about_nav a{
+	background-color: #f75e56;
+}
+
 
 
 /*======================================= Begin Services==========================*/
