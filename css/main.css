@@ -128,7 +128,7 @@ nav{
 .specials{
 	width: 125px;
 	float: right;
-	margin-right: 198px;
+	margin-right: 190px;
 	font: bold 1.5em helvetica, arial, sans-serif;
 	
 }
@@ -137,6 +137,7 @@ nav{
 	width: 291px;
 	font: bold 1.313em/1.3 helvetica, arial, sans-serif;
 	overflow: hidden;
+	margin-left: 635px;
 }
 
 .repeatdiscounts{
